@@ -1,11 +1,11 @@
 {
   "tabs": {
     "inventory": {
-      "trans": "Inventory",
+      "trans": "Penyimpanan",
       "eng": "Inventory"
     },
     "quest": {
-      "trans": "Quest",
+      "trans": "Misi",
       "eng": "Quest"
     },
     "chat": {
@@ -13,48 +13,48 @@
       "eng": "Chat"
     },
     "profile": {
-      "trans": "Profile",
+      "trans": "Profil",
       "eng": "Profile"
     },
     "map": {
-      "trans": "Map",
+      "trans": "Peta",
       "eng": "Map"
     }
   },
   "npc": {
     "unitExchange": {
       "name": {
-        "trans": "Arasaka Unit Exchange",
+        "trans": "Penukaran Unit Arasaka",
         "eng": "Arasaka Unit Exchange"
       },
       "tut": {
-        "trans": "You can purchase global buff items here",
+        "trans": "Kamu dapat membeli buff global disini",
         "eng": "You can purchase global buff items here"
       }
     },
     "cosmetic": {
       "name": {
-        "trans": "Cosmetic Cyberwear",
+        "trans": "Kosmetik Cyberwear",
         "eng": "Cosmetic Cyberwear"
       },
       "tut": {
-        "trans": "If you liked the game, please consider donation :)",
+        "trans": "Jika kamu menyukai game ini, pertimbangkan untuk berdonasi :)",
         "eng": "If you liked the game, please consider donation :)"
       }
     },
     "printer": {
       "name": {
-        "trans": "Molecular 3d Printer",
+        "trans": "Printer Molecular 3d",
         "eng": "Molecular 3d Printer"
       },
       "tut": {
-        "trans": "You can use your Cache to print new equipment here",
+        "trans": "Kamu dapat menggunakan Cache untuk mencetak equipment baru disini",
         "eng": "You can use your Cache to print new equipment here"
       }
     },
     "weaponSmith": {
       "name": {
-        "trans": "Weapon Smith",
+        "trans": "Penjual Senjata",
         "eng": "Weapon Smith"
       }
     },
@@ -64,19 +64,19 @@
         "eng": "Terminal"
       },
       "tut": {
-        "trans": "To progress to next area, you need to use get Secret Key Fragments from dungeons, \r\n        and use Terminal to Brute Force the key for next area",
+        "trans": "Untuk maju ke area selanjutnya, kamu harus menggunakan Fragment Kunci Rahasia dari dungeon, \r\n        dan menggunakan Terminal untuk Membuka Paksa kunci ke area selanjutnya",
         "eng": "To progress to next area, you need to use get Secret Key Fragments from dungeons, \r\n        and use Terminal to Brute Force the key for next area"
       }
     },
     "store": {
       "name": {
-        "trans": "Trinoky Mart",
+        "trans": "Market Trinoky",
         "eng": "Trinoky Mart"
       }
     },
     "bank": {
       "name": {
-        "trans": "Bank of Arasaka",
+        "trans": "Bank Arasaka",
         "eng": "Bank of Arasaka"
       }
     }
@@ -87,7 +87,7 @@
         "amount",
         "itemName"
       ],
-      "trans": "You received ${amount} ${itemName}",
+      "trans": "Kamu menerima ${amount} ${itemName}",
       "eng": "You received ${amount} ${itemName}"
     }
   },
@@ -100,19 +100,19 @@
     },
     "print": {
       "name": {
-        "trans": "printing rank",
+        "trans": "rank printing",
         "eng": "printing rank"
       }
     },
     "medical": {
       "name": {
-        "trans": "medical science",
+        "trans": "ilmu medis",
         "eng": "medical science"
       }
     },
     "ammo": {
       "name": {
-        "trans": "ammo crafting",
+        "trans": "pembuatan amunisi",
         "eng": "ammo crafting"
       }
     }
@@ -120,86 +120,86 @@
   "location": {
     "mainHub": {
       "name": {
-        "trans": "Shangri-La City center",
+        "trans": "pusat kota Shangri-La",
         "eng": "Shangri-La City center"
       },
       "description": {
-        "trans": "[Central Hub]\r\n        One of the busiest cities in the continent, here you can find all sorts of people from around the globe.",
+        "trans": "[Hub Sentral]\r\n        Salah satu kota terpadat di benua, disini kamu dapat menemukan berbagai jenis orang dari penjuru dunia.",
         "eng": "[Central Hub]\r\n        One of the busiest cities in the continent, here you can find all sorts of people from around the globe."
       },
       "toStation": {
         "name": {
-          "trans": "Go to Hyper Train Central Station",
+          "trans": "Menuju ke Stasiun Pusat Kereta Hyper",
           "eng": "Go to Hyper Train Central Station"
         },
         "tut": {
-          "trans": "Start your adventure to epic loots here",
+          "trans": "Mulai petualanganmu menuju benda-benda epik disini",
           "eng": "Start your adventure to epic loots here"
         }
       },
       "toJob": {
         "name": {
-          "trans": "Go to Shangri-La Commercial Area",
+          "trans": "Menuju ke Area Komersial Shangri-La",
           "eng": "Go to Shangri-La Commercial Area"
         },
         "tut": {
-          "trans": "You can complete AFK jobs to increase your skills here",
+          "trans": "Kamu dapat melakukan pekerjaan AFK untuk meningkatkan skillmu disini",
           "eng": "You can complete AFK jobs to increase your skills here"
         }
       },
       "toMarket": {
         "name": {
-          "trans": "Go to Shangri-La Market Street",
+          "trans": "Menuju Jalan Market Shangri-La",
           "eng": "Go to Shangri-La Market Street"
         },
         "tut": {
-          "trans": "You can sell or buy items from other players here",
+          "trans": "Kamu dapat menjual atau membeli barang dari pemain lain disini",
           "eng": "You can sell or buy items from other players here"
         }
       }
     },
     "job": {
       "name": {
-        "trans": "Shangri-La Commercial Area",
+        "trans": "Area Komersial Shangri-La",
         "eng": "Shangri-La Commercial Area"
       },
       "description": {
-        "trans": "[Job Hub]\r\n        Many shops and Businesses, a perfect location to try out your skills.",
+        "trans": "[Pusat Pekerjaan]\r\n        Banyak toko dan bisnis, tempat yang sempurna untuk mencoba skillmu.",
         "eng": "[Job Hub]\r\n        Many shops and Businesses, a perfect location to try out your skills."
       },
       "toMainHub": {
         "name": {
-          "trans": "Return to Shangri-La City Center",
+          "trans": "Kembali ke Pusat Kota Shangri-La",
           "eng": "Return to Shangri-La City Center"
         }
       }
     },
     "market": {
       "name": {
-        "trans": "Shangri-La Market Street",
+        "trans": "Jalan Market Shangri-La",
         "eng": "Shangri-La Market Street"
       },
       "description": {
-        "trans": "[Player Market]\r\n        The famous market street in Shangri-La. Loads of market stalls fill the street.\r\n        Maybe you can find something you need or set up shop yourself.",
+        "trans": "[Market Pemain]\r\n        Jalan market yang terkenal di Shangri-La. Berbagai kios memenuhi jalan.\r\n        Mungkin kamu bisa menemukan sesuatu yang kamu butuhkan atau membuka tokomu sendiri.",
         "eng": "[Player Market]\r\n        The famous market street in Shangri-La. Loads of market stalls fill the street.\r\n        Maybe you can find something you need or set up shop yourself."
       },
       "toMainHub": {
         "name": {
-          "trans": "Return to Shangri-La City Center",
+          "trans": "Kembali ke Pusat Kota Shangri-La",
           "eng": "Return to Shangri-La City Center"
         }
       }
     },
     "station": {
       "name": {
-        "trans": "Hyper Train Central Station",
+        "trans": "Stasiun Pusat Kereta Hyper",
         "eng": "[Adventure]\r\n        Using the hyperloop you can travel at super speed across the continent with ease."
       }
     },
     "zone": {
       "backToMainHub": {
         "name": {
-          "trans": "Back to city center",
+          "trans": "Kembali ke pusat kota",
           "eng": "Return to ${mainHubName}",
           "vars": [
             "mainHubName"
@@ -211,20 +211,20 @@
           "vars": [
             "segmentStationName"
           ],
-          "trans": "back to ${segmentStationName}",
+          "trans": "kembali ke ${segmentStationName}",
           "eng": "back to ${segmentStationName}"
         },
         "description": {
           "vars": [
             "segmentStationName"
           ],
-          "trans": "return to ${segmentStationName}",
+          "trans": "kembali ke ${segmentStationName}",
           "eng": "return to ${segmentStationName}"
         }
       },
       "toStation": {
         "description": {
-          "trans": "Return to Hyper Train Station",
+          "trans": "Kembali me Stasiun Kereta Hyper",
           "eng": "Return to Hyper Train Station"
         }
       }
@@ -232,12 +232,12 @@
     "segment": {
       "locked": {
         "description": {
-          "trans": "Gather all 3 different Key Fragments from Dungeons in each 3 zones in previous station, \r\n                    then go to [Terminal] at City Center [Hub] to brute-force (Craft) the key required to unlock this area",
+          "trans": "Kumpulkan ketiga Fragmen Kunci dari Dungeon di setiap 3 zona di stasiun sebelumnya, \r\n                    lalu pergi ke [Terminal] di Pusat Kota [Hub] untuk membuka paksa (Membuat) kunci yang dibutuhkan untuk membuka area ini",
           "eng": "Gather all 3 different Key Fragments from Dungeons in each 3 zones in previous station, \r\n                    then go to [Terminal] at City Center [Hub] to brute-force (Craft) the key required to unlock this area"
         }
       },
       "tut": {
-        "trans": "Start with level 1 to 10 area",
+        "trans": "Mulai dari area level 1 sampai 10",
         "eng": "Start with level 1 to 10 area"
       },
       "toZone": {
@@ -245,14 +245,14 @@
           "vars": [
             "segmentStationName"
           ],
-          "trans": "Continue here to fight level 1 enemy",
+          "trans": "Lanjutkan disini untuk bertarung dengan musuh level 1",
           "eng": "Continue here to fight level 1 enemy"
         },
         "description": {
           "vars": [
             "zoneName"
           ],
-          "trans": "Go to ${zoneName}",
+          "trans": "Menuju ${zoneName}",
           "eng": "Go to ${zoneName}"
         }
       }
@@ -264,14 +264,14 @@
         "vars": [
           "levelName"
         ],
-        "trans": "Experience Shard [${levelName}]",
+        "trans": "Keping Pengalaman [${levelName}]",
         "eng": "Experience Shard [${levelName}]"
       },
       "description": {
         "vars": [
           "levelName"
         ],
-        "trans": "A shard that contains someone's memory and experience, if used you may gain ${levelName} experience from this",
+        "trans": "Sebuah kepingan yang berisikan memori dan pengalaman seseorang, jika digunakan kamu dapat memperoleh ${levelName} experience",
         "eng": "A shard that contains someone's memory and experience, if used you may gain ${levelName} experience from this"
       }
     },
@@ -281,14 +281,14 @@
           "segmentDisplayName",
           "fragmentNum"
         ],
-        "trans": "${segmentDisplayName} Key Fragment ${fragmentNum}",
+        "trans": "${segmentDisplayName} Fragmen Kunci ${fragmentNum}",
         "eng": "${segmentDisplayName} Key Fragment ${fragmentNum}"
       },
       "description": {
         "vars": [
           "segmentDisplayName"
         ],
-        "trans": "Secret key Fragment Use to brute-force a secret key.\r\n                                Use the Terminal at city center [Hub] to brute-force a ${segmentDisplayName} secret key.\r\n                                You can acquire each of the 3 required keys in each dungeon (both normal or challenge),\r\n                                when you acquired 3 keys, you may use Terminal to brute-force (Craft) a key to the next area",
+        "trans": "Fragmen Kunci Rahasia Gunakan untuk membuka paksa sebuah kunci rahasia.\r\n                                Use the Terminal at city center [Hub] to brute-force a ${segmentDisplayName} secret key.\r\n                                You can acquire each of the 3 required keys in each dungeon (both normal or challenge),\r\n                                when you acquired 3 keys, you may use Terminal to brute-force (Craft) a key to the next area",
         "eng": "Secret key Fragment Use to brute-force a secret key.\r\n                                Use the Terminal at city center [Hub] to brute-force a ${segmentDisplayName} secret key.\r\n                                You can acquire each of the 3 required keys in each dungeon (both normal or challenge),\r\n                                when you acquired 3 keys, you may use Terminal to brute-force (Craft) a key to the next area"
       }
     },
@@ -298,14 +298,14 @@
           "tierName",
           "typeName"
         ],
-        "trans": "${tierName} ${typeName} cache",
+        "trans": "Cache ${typeName} ${tierName}",
         "eng": "${tierName} ${typeName} cache"
       },
       "description": {
         "vars": [
           "typeName"
         ],
-        "trans": "A ${typeName} cache contains information used for Molecular 3D Printing, \r\n                    You can create a ${typeName} with the [Molecular 3d Printer] at [Central Hub].\r\n                    \r\n                    Pro tip: The level of item you get from printing is determined by your Printing Rank,\r\n                    so always print the trash ones first, as they cost less and useful to level up your Printing Rank",
+        "trans": "Cache ${typeName} berisikan informasi yang digunakan untuk Printing Molekular 3D, \r\n                    Kamu dapat membuat sebuah ${typeName} dengan [Printer Molekular 3d] di [Hub Pusat].\r\n                    \r\n                    Tip pro: Level benda yang kamu dapatkan ditentukan oleh Rank Printing-mu,\r\n                    jadi selalu print rongsokan terlebih dahulu, karena mereka lebih murah dan berguna untuk menaikkan level Rank Printing-mu",
         "eng": "A ${typeName} cache contains information used for Molecular 3D Printing, \r\n                    You can create a ${typeName} with the [Molecular 3d Printer] at [Central Hub].\r\n                    \r\n                    Pro tip: The level of item you get from printing is determined by your Printing Rank,\r\n                    so always print the trash ones first, as they cost less and useful to level up your Printing Rank"
       }
     }
@@ -313,61 +313,61 @@
   "action": {
     "autoFarm": {
       "name": {
-        "trans": "Deploy farm bot",
+        "trans": "Kerahkan bot farm",
         "eng": "Deploy farm bot"
       },
       "description": {
-        "trans": "[AFK Exp Farm]\r\n        Deploys an AI to dungeon for you. This will use up an AI Core, they usually only just manage the one trip.",
+        "trans": "[AFK Exp Farm]\r\n        Kerahkan AI ke dungeon. Aksi ini akan memakan sebuah Core AI, mereka biasanya hanya mampu melakukan satu perjalanan.",
         "eng": "[AFK Exp Farm]\r\n        Deploys an AI to dungeon for you. This will use up an AI Core, they usually only just manage the one trip."
       },
       "tut": {
-        "trans": "You can use your AI Core to Auto-Farm enemies while you AFK",
+        "trans": "Kamu dapat menggunakan Core AI-mu untuk Auto-Farm musuh ketika AFK",
         "eng": "You can use your AI Core to Auto-Farm enemies while you AFK"
       }
     },
     "increasePrint": {
       "name": {
-        "trans": "work in printing factory",
+        "trans": "bekerja di pabrik printing",
         "eng": "work in printing factory"
       },
       "description": {
-        "trans": "Improve Printing Rank without sacrificing tech scrap, this may help to increase the level of your prints.",
+        "trans": "Tingkatkan Rank Printing tanpa mengorbankan rongsokan teknologi, dapat meningkatkan level cetakanmu.",
         "eng": "Improve Printing Rank without sacrificing tech scrap, this may help to increase the level of your prints."
       }
     },
     "increaseMedical": {
       "name": {
-        "trans": "Hack a Body Mod Clinic",
+        "trans": "Retas Klinik Modifikasi Tubuh",
         "eng": "Hack a Body Mod Clinic"
       },
       "description": {
-        "trans": "Download useful data from a local body mod clinic to craft higher quality medical bots and drones.",
+        "trans": "Download data berguna dari klinik modifikasi tubuh lokal untuk membuat bot dan drone medis berkualitas tinggi.",
         "eng": "Download useful data from a local body mod clinic to craft higher quality medical bots and drones."
       }
     },
     "increaseAmmo": {
       "name": {
-        "trans": "Improve Ammunition",
+        "trans": "Tingkatkan Amunisi",
         "eng": "Improve Ammunition"
       },
       "description": {
-        "trans": "Tinker with ammunition, to find more effective ways of crafting it.",
+        "trans": "Berkutat dengan amunisi, untuk menemukan cara pembuatan yang efektif.",
         "eng": "Tinker with ammunition, to find more effective ways of crafting it."
       }
     },
     "reverseEngineer": {
       "name": {
-        "trans": "Reverse Engineer Scraps",
+        "trans": "Rekayasa Balik Rongsokan",
         "eng": "Reverse engineer tech scrap to improve your Print Rank. \r\n        You’ll need to sacrifice some of your tech scrap."
       }
     },
     "reverseMining": {
       "name": {
-        "trans": "initiate crypto mining",
+        "trans": "inisiasi penambangan kripto",
         "eng": "initiate crypto mining"
       },
       "description": {
-        "trans": "Engaging in crypto mining will earn you Bitcoins, however due to the intense use of the Hash Processors, the Quantum Processing Unit, otherwise known as the QPU, will often burn out.",
+        "trans": "Menambang kripto akan menghasilkan Bitcoins, namun dikarenakan penggunaan Prosesor Hash secara intense, Unit Pemrosesan Quantum Processing, atau dikenal sebagai QPU, seringkali akan terbakar.",
         "eng": "Engaging in crypto mining will earn you Bitcoins, however due to the intense use of the Hash Processors, the Quantum Processing Unit, otherwise known as the QPU, will often burn out."
       }
     },
@@ -376,14 +376,14 @@
         "vars": [
           "zoneName"
         ],
-        "trans": "Scavenge in ${zoneName}",
+        "trans": "Berburu di ${zoneName}",
         "eng": "Scavenge in ${zoneName}"
       },
       "description": {
         "vars": [
           "zoneName"
         ],
-        "trans": "[AFK Resource Gather]\r\n                    Search around in ${zoneName} and scavenge for useful items.\r\n                    Who knows, maybe you'll get lucky!",
+        "trans": "[Kumpulkan Sumber Daya secara AFK]\r\n                    Mencari di sekitar ${zoneName} dan kumpulkan benda-benda berdaya guna.\r\n                    Siapa tahu, mungkin kamu akan beruntung!",
         "eng": "[AFK Resource Gather]\r\n                    Search around in ${zoneName} and scavenge for useful items.\r\n                    Who knows, maybe you'll get lucky!"
       }
     }
@@ -391,37 +391,37 @@
   "tier": {
     "trash": {
       "name": {
-        "trans": "trash",
+        "trans": "rongsokan",
         "eng": "trash"
       }
     },
     "common": {
       "name": {
-        "trans": "common",
+        "trans": "biasa",
         "eng": "common"
       }
     },
     "highQuality": {
       "name": {
-        "trans": "high quality",
+        "trans": "kualitas tinggi",
         "eng": "high quality"
       }
     },
     "rare": {
       "name": {
-        "trans": "rare",
+        "trans": "langka",
         "eng": "rare"
       }
     },
     "legendary": {
       "name": {
-        "trans": "legendary",
+        "trans": "legendaris",
         "eng": "legendary"
       }
     },
     "epic": {
       "name": {
-        "trans": "epic",
+        "trans": "epik",
         "eng": "epic"
       }
     }
@@ -433,21 +433,21 @@
           "expMultiplier",
           "keyFragmentDisplayName"
         ],
-        "trans": "Recommended Level:　${maxLevel}\r\n                    ${expMultiplier}x times more EXP!\r\n                    Drops ${keyFragmentDisplayName}",
+        "trans": "Rekomendasi Level:　${maxLevel}\r\n                    ${expMultiplier}x lebih banyak EXP!\r\n                    Menjatuhkan ${keyFragmentDisplayName}",
         "eng": "Recommended Level:　${maxLevel}\r\n                    ${expMultiplier}x times more EXP!\r\n                    Drops ${keyFragmentDisplayName}"
       },
       "startName": {
         "vars": [
           "zoneName"
         ],
-        "trans": "Explore ${zoneName}",
+        "trans": "Eksplorasi ${zoneName}",
         "eng": "Explore ${zoneName}"
       },
       "tut": {
         "vars": [
           "zoneName"
         ],
-        "trans": "Dive into dungeon to get even more exp and loot!\r\n                        remember to buy some healing item! you won\"t regen after battle in dungeon` ),\r\n                        shouldShow: (player) => player.getAverageItemLevel() > 5\r\n                    },\r\n                    config: {\r\n                        criticalRoom: [3, 4],\r\n                        additionalRoom: [2, 3],\r\n                        tiles: {\r\n                            SUPPLY_CRATE_1: { minMax: [0, 2] },\r\n                            AMMO_CRATE_1: { minMax: [0, 2] }\r\n                        },\r\n                        lastRoomTiles: {\r\n                            LOOT_CRATE: { minMax: [3, 4] },\r\n                            AMMO_CRATE_1: { minMax: [2, 3] },\r\n                            DYNAMIC_SECRET_KEY: {\r\n                                minMax: [1, 1],\r\n                                extraReward: {\r\n                                    items: [{ itemType: secreteKeyFragmentId as any }]\r\n                                }\r\n                            }\r\n                        },\r\n                        enemy: {\r\n                            normalRoom: [{\r\n                                amount: [2, 3],\r\n                                type: zoneId\r\n                            }],\r\n                            lastRoom: [{\r\n                                amount: [4, 6],\r\n                                type: zoneId,\r\n                            }]\r\n                        },\r\n                    }\r\n                });\r\n                DungeonSetting.values.push(normalDungeon);\r\n                const challengeDungeon = new DungeonSetting({\r\n                    name: challengeDungeonId,\r\n                    startName: lang('dungeon.challenge.startName', `attack ${zoneName}",
+        "trans": "Masuk ke dalam dungeon untuk mendapatkan lebih banyak exp dan jarahan!\r\n                        selalu ingat untuk membeli healing item! kamu tidak akan beregenerasi setelah battle di dungeon` ),\r\n                        shouldShow: (player) => player.getAverageItemLevel() > 5\r\n                    },\r\n                    config: {\r\n                        criticalRoom: [3, 4],\r\n                        additionalRoom: [2, 3],\r\n                        tiles: {\r\n                            SUPPLY_CRATE_1: { minMax: [0, 2] },\r\n                            AMMO_CRATE_1: { minMax: [0, 2] }\r\n                        },\r\n                        lastRoomTiles: {\r\n                            LOOT_CRATE: { minMax: [3, 4] },\r\n                            AMMO_CRATE_1: { minMax: [2, 3] },\r\n                            DYNAMIC_SECRET_KEY: {\r\n                                minMax: [1, 1],\r\n                                extraReward: {\r\n                                    items: [{ itemType: secreteKeyFragmentId as any }]\r\n                                }\r\n                            }\r\n                        },\r\n                        enemy: {\r\n                            normalRoom: [{\r\n                                amount: [2, 3],\r\n                                type: zoneId\r\n                            }],\r\n                            lastRoom: [{\r\n                                amount: [4, 6],\r\n                                type: zoneId,\r\n                            }]\r\n                        },\r\n                    }\r\n                });\r\n                DungeonSetting.values.push(normalDungeon);\r\n                const challengeDungeon = new DungeonSetting({\r\n                    name: challengeDungeonId,\r\n                    startName: lang('dungeon.challenge.startName', `attack ${zoneName}",
         "eng": "Dive into dungeon to get even more exp and loot!\r\n                        remember to buy some healing item! you won\"t regen after battle in dungeon` ),\r\n                        shouldShow: (player) => player.getAverageItemLevel() > 5\r\n                    },\r\n                    config: {\r\n                        criticalRoom: [3, 4],\r\n                        additionalRoom: [2, 3],\r\n                        tiles: {\r\n                            SUPPLY_CRATE_1: { minMax: [0, 2] },\r\n                            AMMO_CRATE_1: { minMax: [0, 2] }\r\n                        },\r\n                        lastRoomTiles: {\r\n                            LOOT_CRATE: { minMax: [3, 4] },\r\n                            AMMO_CRATE_1: { minMax: [2, 3] },\r\n                            DYNAMIC_SECRET_KEY: {\r\n                                minMax: [1, 1],\r\n                                extraReward: {\r\n                                    items: [{ itemType: secreteKeyFragmentId as any }]\r\n                                }\r\n                            }\r\n                        },\r\n                        enemy: {\r\n                            normalRoom: [{\r\n                                amount: [2, 3],\r\n                                type: zoneId\r\n                            }],\r\n                            lastRoom: [{\r\n                                amount: [4, 6],\r\n                                type: zoneId,\r\n                            }]\r\n                        },\r\n                    }\r\n                });\r\n                DungeonSetting.values.push(normalDungeon);\r\n                const challengeDungeon = new DungeonSetting({\r\n                    name: challengeDungeonId,\r\n                    startName: lang('dungeon.challenge.startName', `attack ${zoneName}"
       }
     },
@@ -458,11 +458,11 @@
           "keyFragmentDisplayName",
           "expMultiplier"
         ],
-        "trans": "Recommended Level:　${maxLevel}+ with co-op\r\n                    ${expMultiplier}x more EXP!\r\n                    Challenge mode dungeon, extra loot and exp.\r\n                    Drops ${keyFragmentDisplayName}\r\n                    Not advised to enter if your level is too low",
+        "trans": "Recomendasi Level:　${maxLevel}+ dengan co-op\r\n                    ${expMultiplier}x lebih banyak EXP!\r\n                    Dungeon mode Challenge, jarahan dan exp extra.\r\n                    Menjatuhkan ${keyFragmentDisplayName}\r\n                    Not advised to enter if your level is too low",
         "eng": "Recommended Level:　${maxLevel}+ with co-op\r\n                    ${expMultiplier}x more EXP!\r\n                    Challenge mode dungeon, extra loot and exp.\r\n                    Drops ${keyFragmentDisplayName}\r\n                    Not advised to enter if your level is too low"
       },
       "tut": {
-        "trans": "Are you strong enough? try it out on Challenge Dungeon,\r\n                        there is a strong boss and tons of loot at the end waiting for you!\r\n                        Its recommended to attempt this with other players.` ),\r\n                        shouldShow: (player) => player.getAverageItemLevel() >= 7\r\n                    },\r\n                    config: {\r\n                        criticalRoom: [4, 5],\r\n                        additionalRoom: [2, 3],\r\n                        tiles: {\r\n                            SUPPLY_CRATE_1: { minMax: [0, 2] },\r\n                            AMMO_CRATE_1: { minMax: [0, 2] },\r\n                        },\r\n                        lastRoomTiles: {\r\n                            LOOT_CRATE: { minMax: [3, 4] },\r\n                            AMMO_CRATE_1: { minMax: [2, 3] },\r\n                            DYNAMIC_TILE: {\r\n                                minMax: [2, 4],\r\n                                extraReward: {\r\n                                    items: [{ itemType: \"EXP_MEMORY\", chance: 1 },\r\n                                    {\r\n                                        oneOf: this.MISC_EXPERIENCE_MEMORIES.map(id => ({ itemType: id, weight: 10 }) as IWeightedItemDrop),\r\n                                        chance: 0.1\r\n                                    }]\r\n                                },\r\n                                displayName: \"Exp Memory\",\r\n                                perPlayer: true\r\n                            },\r\n                            DYNAMIC_TILE_2: {\r\n                                minMax: [3, 4],\r\n                                extraReward: {\r\n                                    money: {\r\n                                        scaling: {\r\n                                            ...Config.CREATURE.DEFAULT_MONEY,\r\n                                            MULTIPLIER: Config.CREATURE.DEFAULT_MONEY.MULTIPLIER * 4\r\n                                        }\r\n                                    }\r\n                                },\r\n                                displayName: `${Config.CURRENCY_NAME} stash`,\r\n                                perPlayer: true,\r\n                            },\r\n                            DYNAMIC_SECRET_KEY: {\r\n                                minMax: [1, 1],\r\n                                extraReward: {\r\n                                    items: [{ itemType: secreteKeyFragmentId as any }]\r\n                                }\r\n                            }\r\n                        },\r\n                        enemy: {\r\n                            normalRoom: [{\r\n                                amount: [3, 4],\r\n                                type: zoneId\r\n                            }],\r\n                            lastRoom: [{\r\n                                amount: [4, 6],\r\n                                type: zoneId,\r\n                            },\r\n                            {\r\n                                amount: [1, 1],\r\n                                type: `BOSS_${zoneId}`,\r\n                            }]\r\n                        },\r\n                    }\r\n                });\r\n                DungeonSetting.values.push(challengeDungeon);\r\n\r\n\r\n                // CREATE CREATURES \r\n\r\n                const names: string[] = [];\r\n                for (let ii = 0; ii < 5; ii++) {\r\n                    names.push(TextGen.generateBadGuy(ran));\r\n                }\r\n\r\n                CreatureSetting.values.push(new CreatureSetting({\r\n                    name: zoneId,\r\n                    names,\r\n                    traitChance: 0.5,\r\n                    weight: 100,\r\n                    ...DEFAULT_OPTIONS\r\n                }));\r\n\r\n                const bossNames = TextGen.getBossNames();\r\n                CreatureSetting.values.push(new CreatureSetting({\r\n                    name: `BOSS_${zoneId}`,\r\n                    names: bossNames,\r\n                    traitChance: 0.5,\r\n                    weight: 100,\r\n                    ...DEFAULT_OPTIONS,\r\n                    healthFactor: 15,\r\n                    damageFactor: 2,\r\n                    expConfig: {\r\n                        ...DEFAULT_EXP,\r\n                        MULTIPLIER: DEFAULT_EXP.MULTIPLIER * 15\r\n                    },\r\n                    moneyConfig: {\r\n                        ...Config.CREATURE.DEFAULT_MONEY,\r\n                        MULTIPLIER: Config.CREATURE.DEFAULT_MONEY.MULTIPLIER * 15\r\n                    },\r\n                    drops: [...CreatureSetting.DEFAULT_DROPS,\r\n                    { itemType: \"UNKNOWN_EQUIPMENT\", amount: 1 },\r\n                    { itemType: \"UNKNOWN_EQUIPMENT\", amount: 1 },\r\n                    { itemType: \"UNKNOWN_EQUIPMENT\", amount: 1 },\r\n                    { itemType: \"UNKNOWN_EQUIPMENT\", amount: 1 },\r\n                    { itemType: \"UNKNOWN_WEAPON\", amount: 1 },\r\n                    { itemType: \"UNKNOWN_WEAPON\", amount: 1 },\r\n                    { itemType: \"AI_CORE\", minAmount: 3, maxAmount: 6 },\r\n                    { itemType: \"HASH_PROCESSOR\", minAmount: 3, maxAmount: 6 }\r\n                    ],\r\n                }));\r\n\r\n                zoneIndex++;\r\n                allZoneIndex++;\r\n            }\r\n            segmentLoc[\"options\"].linkedLocation.push({\r\n                to: \"STATION_1\",\r\n                displayName: lang('location.zone.toStation.name', \"back to Hyper Train Station",
+        "trans": "Apakah kamu cukup kuat? coba dungeon mode Challenge,\r\n                        terdapat boss kuat dan banyak jarahan menantimu!\r\n                        Direkomendasikan untuk mencoba ini dengan pemain lain.` ),\r\n                        shouldShow: (player) => player.getAverageItemLevel() >= 7\r\n                    },\r\n                    config: {\r\n                        criticalRoom: [4, 5],\r\n                        additionalRoom: [2, 3],\r\n                        tiles: {\r\n                            SUPPLY_CRATE_1: { minMax: [0, 2] },\r\n                            AMMO_CRATE_1: { minMax: [0, 2] },\r\n                        },\r\n                        lastRoomTiles: {\r\n                            LOOT_CRATE: { minMax: [3, 4] },\r\n                            AMMO_CRATE_1: { minMax: [2, 3] },\r\n                            DYNAMIC_TILE: {\r\n                                minMax: [2, 4],\r\n                                extraReward: {\r\n                                    items: [{ itemType: \"EXP_MEMORY\", chance: 1 },\r\n                                    {\r\n                                        oneOf: this.MISC_EXPERIENCE_MEMORIES.map(id => ({ itemType: id, weight: 10 }) as IWeightedItemDrop),\r\n                                        chance: 0.1\r\n                                    }]\r\n                                },\r\n                                displayName: \"Exp Memory\",\r\n                                perPlayer: true\r\n                            },\r\n                            DYNAMIC_TILE_2: {\r\n                                minMax: [3, 4],\r\n                                extraReward: {\r\n                                    money: {\r\n                                        scaling: {\r\n                                            ...Config.CREATURE.DEFAULT_MONEY,\r\n                                            MULTIPLIER: Config.CREATURE.DEFAULT_MONEY.MULTIPLIER * 4\r\n                                        }\r\n                                    }\r\n                                },\r\n                                displayName: `${Config.CURRENCY_NAME} stash`,\r\n                                perPlayer: true,\r\n                            },\r\n                            DYNAMIC_SECRET_KEY: {\r\n                                minMax: [1, 1],\r\n                                extraReward: {\r\n                                    items: [{ itemType: secreteKeyFragmentId as any }]\r\n                                }\r\n                            }\r\n                        },\r\n                        enemy: {\r\n                            normalRoom: [{\r\n                                amount: [3, 4],\r\n                                type: zoneId\r\n                            }],\r\n                            lastRoom: [{\r\n                                amount: [4, 6],\r\n                                type: zoneId,\r\n                            },\r\n                            {\r\n                                amount: [1, 1],\r\n                                type: `BOSS_${zoneId}`,\r\n                            }]\r\n                        },\r\n                    }\r\n                });\r\n                DungeonSetting.values.push(challengeDungeon);\r\n\r\n\r\n                // CREATE CREATURES \r\n\r\n                const names: string[] = [];\r\n                for (let ii = 0; ii < 5; ii++) {\r\n                    names.push(TextGen.generateBadGuy(ran));\r\n                }\r\n\r\n                CreatureSetting.values.push(new CreatureSetting({\r\n                    name: zoneId,\r\n                    names,\r\n                    traitChance: 0.5,\r\n                    weight: 100,\r\n                    ...DEFAULT_OPTIONS\r\n                }));\r\n\r\n                const bossNames = TextGen.getBossNames();\r\n                CreatureSetting.values.push(new CreatureSetting({\r\n                    name: `BOSS_${zoneId}`,\r\n                    names: bossNames,\r\n                    traitChance: 0.5,\r\n                    weight: 100,\r\n                    ...DEFAULT_OPTIONS,\r\n                    healthFactor: 15,\r\n                    damageFactor: 2,\r\n                    expConfig: {\r\n                        ...DEFAULT_EXP,\r\n                        MULTIPLIER: DEFAULT_EXP.MULTIPLIER * 15\r\n                    },\r\n                    moneyConfig: {\r\n                        ...Config.CREATURE.DEFAULT_MONEY,\r\n                        MULTIPLIER: Config.CREATURE.DEFAULT_MONEY.MULTIPLIER * 15\r\n                    },\r\n                    drops: [...CreatureSetting.DEFAULT_DROPS,\r\n                    { itemType: \"UNKNOWN_EQUIPMENT\", amount: 1 },\r\n                    { itemType: \"UNKNOWN_EQUIPMENT\", amount: 1 },\r\n                    { itemType: \"UNKNOWN_EQUIPMENT\", amount: 1 },\r\n                    { itemType: \"UNKNOWN_EQUIPMENT\", amount: 1 },\r\n                    { itemType: \"UNKNOWN_WEAPON\", amount: 1 },\r\n                    { itemType: \"UNKNOWN_WEAPON\", amount: 1 },\r\n                    { itemType: \"AI_CORE\", minAmount: 3, maxAmount: 6 },\r\n                    { itemType: \"HASH_PROCESSOR\", minAmount: 3, maxAmount: 6 }\r\n                    ],\r\n                }));\r\n\r\n                zoneIndex++;\r\n                allZoneIndex++;\r\n            }\r\n            segmentLoc[\"options\"].linkedLocation.push({\r\n                to: \"STATION_1\",\r\n                displayName: lang('location.zone.toStation.name', \"back to Hyper Train Station",
         "eng": "Are you strong enough? try it out on Challenge Dungeon,\r\n                        there is a strong boss and tons of loot at the end waiting for you!\r\n                        Its recommended to attempt this with other players.` ),\r\n                        shouldShow: (player) => player.getAverageItemLevel() >= 7\r\n                    },\r\n                    config: {\r\n                        criticalRoom: [4, 5],\r\n                        additionalRoom: [2, 3],\r\n                        tiles: {\r\n                            SUPPLY_CRATE_1: { minMax: [0, 2] },\r\n                            AMMO_CRATE_1: { minMax: [0, 2] },\r\n                        },\r\n                        lastRoomTiles: {\r\n                            LOOT_CRATE: { minMax: [3, 4] },\r\n                            AMMO_CRATE_1: { minMax: [2, 3] },\r\n                            DYNAMIC_TILE: {\r\n                                minMax: [2, 4],\r\n                                extraReward: {\r\n                                    items: [{ itemType: \"EXP_MEMORY\", chance: 1 },\r\n                                    {\r\n                                        oneOf: this.MISC_EXPERIENCE_MEMORIES.map(id => ({ itemType: id, weight: 10 }) as IWeightedItemDrop),\r\n                                        chance: 0.1\r\n                                    }]\r\n                                },\r\n                                displayName: \"Exp Memory\",\r\n                                perPlayer: true\r\n                            },\r\n                            DYNAMIC_TILE_2: {\r\n                                minMax: [3, 4],\r\n                                extraReward: {\r\n                                    money: {\r\n                                        scaling: {\r\n                                            ...Config.CREATURE.DEFAULT_MONEY,\r\n                                            MULTIPLIER: Config.CREATURE.DEFAULT_MONEY.MULTIPLIER * 4\r\n                                        }\r\n                                    }\r\n                                },\r\n                                displayName: `${Config.CURRENCY_NAME} stash`,\r\n                                perPlayer: true,\r\n                            },\r\n                            DYNAMIC_SECRET_KEY: {\r\n                                minMax: [1, 1],\r\n                                extraReward: {\r\n                                    items: [{ itemType: secreteKeyFragmentId as any }]\r\n                                }\r\n                            }\r\n                        },\r\n                        enemy: {\r\n                            normalRoom: [{\r\n                                amount: [3, 4],\r\n                                type: zoneId\r\n                            }],\r\n                            lastRoom: [{\r\n                                amount: [4, 6],\r\n                                type: zoneId,\r\n                            },\r\n                            {\r\n                                amount: [1, 1],\r\n                                type: `BOSS_${zoneId}`,\r\n                            }]\r\n                        },\r\n                    }\r\n                });\r\n                DungeonSetting.values.push(challengeDungeon);\r\n\r\n\r\n                // CREATE CREATURES \r\n\r\n                const names: string[] = [];\r\n                for (let ii = 0; ii < 5; ii++) {\r\n                    names.push(TextGen.generateBadGuy(ran));\r\n                }\r\n\r\n                CreatureSetting.values.push(new CreatureSetting({\r\n                    name: zoneId,\r\n                    names,\r\n                    traitChance: 0.5,\r\n                    weight: 100,\r\n                    ...DEFAULT_OPTIONS\r\n                }));\r\n\r\n                const bossNames = TextGen.getBossNames();\r\n                CreatureSetting.values.push(new CreatureSetting({\r\n                    name: `BOSS_${zoneId}`,\r\n                    names: bossNames,\r\n                    traitChance: 0.5,\r\n                    weight: 100,\r\n                    ...DEFAULT_OPTIONS,\r\n                    healthFactor: 15,\r\n                    damageFactor: 2,\r\n                    expConfig: {\r\n                        ...DEFAULT_EXP,\r\n                        MULTIPLIER: DEFAULT_EXP.MULTIPLIER * 15\r\n                    },\r\n                    moneyConfig: {\r\n                        ...Config.CREATURE.DEFAULT_MONEY,\r\n                        MULTIPLIER: Config.CREATURE.DEFAULT_MONEY.MULTIPLIER * 15\r\n                    },\r\n                    drops: [...CreatureSetting.DEFAULT_DROPS,\r\n                    { itemType: \"UNKNOWN_EQUIPMENT\", amount: 1 },\r\n                    { itemType: \"UNKNOWN_EQUIPMENT\", amount: 1 },\r\n                    { itemType: \"UNKNOWN_EQUIPMENT\", amount: 1 },\r\n                    { itemType: \"UNKNOWN_EQUIPMENT\", amount: 1 },\r\n                    { itemType: \"UNKNOWN_WEAPON\", amount: 1 },\r\n                    { itemType: \"UNKNOWN_WEAPON\", amount: 1 },\r\n                    { itemType: \"AI_CORE\", minAmount: 3, maxAmount: 6 },\r\n                    { itemType: \"HASH_PROCESSOR\", minAmount: 3, maxAmount: 6 }\r\n                    ],\r\n                }));\r\n\r\n                zoneIndex++;\r\n                allZoneIndex++;\r\n            }\r\n            segmentLoc[\"options\"].linkedLocation.push({\r\n                to: \"STATION_1\",\r\n                displayName: lang('location.zone.toStation.name', \"back to Hyper Train Station"
       }
     }
@@ -472,11 +472,11 @@
       "vars": [
         "segmentDisplayName"
       ],
-      "trans": "${segmentDisplayName} Secret Key",
+      "trans": "Kunci rahasia ${segmentDisplayName}",
       "eng": "${segmentDisplayName} Secret Key"
     },
     "unlockVerb": {
-      "trans": "brute-force",
+      "trans": "buka paksa",
       "eng": "brute-force"
     }
   },
@@ -485,7 +485,7 @@
       "vars": [
         "segmentDisplayName"
       ],
-      "trans": "Progression-${progressionId}",
+      "trans": "Progres-${progressionId}",
       "eng": "Acquire 3 different Key Fragments from each dungeons located in ${segmentDisplayName},\r\n                these are used to create the key to next zone.\r\n                To craft the key, go to terminal in [HUB]"
     }
   }
